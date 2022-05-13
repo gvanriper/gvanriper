@@ -15,6 +15,22 @@
   <a href="https://helm.sh/" target="_blank"> <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="50" height="50"/> </a> 
   <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Core" width="50" height="50"/> </a>
-  
-  
+</div>
+</br>
+<div id="learn" align="center"> 
+  <p>Here are some things that I am learning:</p>
+</div>
+<div id="learn-logos" align="center"> 
+  <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="50" height="50"/> </a> 
+  <a href="https://unity.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Unity" width="50" height="50"/> </a> 
+</div>
+<div id="learn-references" align="center"> 
+  <p>Come learn with me:</>
+</div>
+<div id="learn-references-logos" align="center"> 
+  <a href="https://www.packtpub.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1336355091759198208/k6icRogI_400x400.jpg" alt="Packt Pub" width="50" height="50"/> </a> 
+      <a href="https://www.pluralsight.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" alt="Pluralsight" width="50" height="50"/> </a>
+</div>
+<div id="learn" align="center"> 
+  <h3>Have a good day!✌🏻</h3>
 </div>
