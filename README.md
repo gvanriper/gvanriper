@@ -8,6 +8,7 @@
 </div>
 <div id="images" align="center"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React JS" width="60" height="50"/> </a> 
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js" width="50" height="50"/> </a>
   <a href="https://mui.com/" target="_blank"> <img src="https://mui.com/static/logo.png" alt="Material-UI" width="50" height="50"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://assets-global.website-files.com/6130fa1501794e37c21867cf/6191a3901b4f74718ba3916a_613294646e81b85ff5c7a1ef_MongoDB.svg" alt="Mongo DB" width="50" height="50"/> </a> 
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="50" height="50"/> </a> 
