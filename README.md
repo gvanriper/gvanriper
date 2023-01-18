@@ -24,7 +24,7 @@
 </div>
 <div id="learn-logos" align="center"> 
   <a href="https://unity.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Unity" width="50" height="50"/> </a> 
-  <a href="https://svelte.dev/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/8250434/213247993-23fcb63d-7f1e-4a5b-9408-19213c72447f.png)" alt="Svelte" width="50" height="50"/> </a> 
+  <a href="https://svelte.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/8250434/213247993-23fcb63d-7f1e-4a5b-9408-19213c72447f.png" alt="Svelte" width="50" height="50"/> </a> 
 </div>
 <div id="learn-references" align="center"> 
   <p>Come learn with me:</>
