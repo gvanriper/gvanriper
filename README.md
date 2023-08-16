@@ -30,7 +30,7 @@
   <p>Come learn with me:</>
 </div>
 <div id="learn-references-logos" align="center"> 
-  <a href="https://www.packtpub.com/" target="_blank"> <img src="https://media.glassdoor.com/sqll/438946/packt-squareLogo-1655733870757.png" alt="Packt Pub" width="100" height="50"/> </a> 
+  <a href="https://www.packtpub.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10974906?s=280&v=4" alt="Packt Pub" width="50" height="50"/> </a> 
   <a href="https://www.pluralsight.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/4683221/34775011-89bb46c2-f609-11e7-8bd1-d7a70d2277fd.jpg" alt="Pluralsight" width="50" height="50"/> </a>
 </div>
 <div id="learn" align="center"> 
